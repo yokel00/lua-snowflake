@@ -2,7 +2,7 @@ package = "snowflake"
 version = "1.0-1"
 
 source = {
-	url = "https://github.com/yokel00/lua-snowflake.git",
+	url = "https://github.com/stuartcarnie/lua-snowflake.git",
 	tag = "v1.0",
 }
 
